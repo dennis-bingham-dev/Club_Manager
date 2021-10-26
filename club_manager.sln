@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "club_manager", "club_manager\club_manager.csproj", "{6F0817FC-C842-4657-9C56-5A2C2E34A863}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F0817FC-C842-4657-9C56-5A2C2E34A863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0817FC-C842-4657-9C56-5A2C2E34A863}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0817FC-C842-4657-9C56-5A2C2E34A863}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0817FC-C842-4657-9C56-5A2C2E34A863}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
