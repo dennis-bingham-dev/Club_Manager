@@ -29,18 +29,20 @@ namespace club_manager
             }
 
             app.UseRouting();
+            app.UseCors("AllowAll");
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapGet("/", async context => { await context.Response.WriteAsync("Hello World!"); });
-                endpoints.MapControllerRoute(
+                endpoints.MapControllers();
+                // endpoints.MapGet("/", async context => { await context.Response.WriteAsync("Hello World!"); });
+                /* endpoints.MapControllerRoute(
                     name: "Member",
                     pattern: "{controller=Member}/{action=GetAllMembers}"
                 );
                 endpoints.MapControllerRoute(
                         name: "default",
                         pattern: "{controller=Member}/{action=GetMemberById}/{id?}"
-                    );
+                    ); */
             });
         }
     }

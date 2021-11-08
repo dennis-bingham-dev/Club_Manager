@@ -17,5 +17,6 @@ namespace club_manager.Repository
 
         public List<Member> GetAllMembers() => _listMembers;
         public Member GetMember(int id) => _listMembers.FirstOrDefault(m => m.MemberId.Equals(id));
+        // public double GetMembersCount() => _listMembers.Count;
     }
 }

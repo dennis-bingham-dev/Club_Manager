@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "J/AUxho98DWpKBoIVa7qWJ1hjohXcEvwReq4pH1VLnc8GZGqjAtSVoHX14jkY16F0YGkkWZr32n2bGoASqIp0Q==",
+  "dgSpecHash": "ClmgaQ10z37H86NTIx/DIcPC7ZAlJrliATNHwr7KM+ViCl54N7ybocHZ6uEU0ihPc3jJsUiKH1yddS4aANSl5A==",
   "success": true,
-  "projectFilePath": "/Users/dennis/csharp-learning/club_manager/club_manager/club_manager.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/club_manager.csproj",
+  "expectedPackageFiles": [
+    "/Users/dennisbingham/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
