@@ -36,3 +36,5 @@
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.dll
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.pdb
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.genruntimeconfig.cache
+/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.csproj.CopyComplete

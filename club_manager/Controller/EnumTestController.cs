@@ -17,5 +17,14 @@ namespace club_manager.Controller
     
     [HttpPost]
     public ActionResult<TourTypeReturnPayload> TestEnumTheory() => _testEnumBll.TestEnumTheory();
+
+    [HttpGet("{id}")]
+    public ActionResult<dynamic> TestWhatComesOutTheory(int id) => _testEnumBll.TestEnumLookupTheory(id);
+
+    [HttpGet]
+    public ActionResult<string> TestSerializationOfClass() => _testEnumBll.TestSerializationOfClass();
+
+    [HttpPost]
+    public ActionResult<string> TestDeserializationOfClass() => _testEnumBll.TestSignatureCreation();
   }
 }

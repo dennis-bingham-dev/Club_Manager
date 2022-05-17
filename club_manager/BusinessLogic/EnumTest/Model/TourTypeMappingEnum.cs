@@ -2,9 +2,8 @@ namespace club_manager.BusinessLogic.EnumTest.Model
 {
   public enum TourTypeMappingEnum
   {
-    Default,
-    InPerson,
-    SelfGuided,
-    PersonalOnline
+    InPerson = 1,
+    SelfGuided = 2,
+    PersonalOnline = 3
   }
 }
