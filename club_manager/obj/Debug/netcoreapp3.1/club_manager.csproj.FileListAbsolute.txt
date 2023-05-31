@@ -30,11 +30,12 @@
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.csproj.CoreCompileInputs.cache
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.MvcApplicationPartsAssemblyInfo.cache
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/staticwebassets/club_manager.StaticWebAssets.Manifest.cache
-/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/staticwebassets/club_manager.StaticWebAssets.xml
-/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/scopedcss/bundle/club_manager.styles.css
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.RazorTargetAssemblyInfo.cache
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.dll
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.pdb
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.genruntimeconfig.cache
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.csproj.CopyComplete
+/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/obj/Debug/netcoreapp3.1/club_manager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/bin/Debug/netcoreapp3.1/club_manager.StaticWebAssets.xml
+/Users/dennisbingham/CSharpPersonalPractice/Club_Manager/club_manager/bin/Debug/netcoreapp3.1/club_manager
